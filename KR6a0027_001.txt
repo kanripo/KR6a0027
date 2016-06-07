@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:14.703795
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:24
 #+TITLE: 七知經
 #+PROPERTY: CBETA_ID T01n0027
 #+PROPERTY: ID KR6a0027
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 027
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0027_T_001-0810a> 
 #+PROPERTY: JUAN 1
 ¶
-No.27[No.26(1),No.123(39.1)]¶
-
- 佛說七知經¶
+No. 27 [No. 26(1), No. 123(39.1)]¶
+佛說七知經¶
 ¶
 吳月支國居士支謙譯¶
 
